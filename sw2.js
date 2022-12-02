@@ -28,6 +28,10 @@ self.addEventListener('install', e => {
                 '/js/app.js',
                 '/css/style.css',
                 '/img/logo.png',
+                '/img/slider-bg-1.jpg',
+                '/img/slider-bg-2.jpg',
+                '/img/carlosIcon.png',
+                '/img/vidalIcon.png',
             ])
         })
 
