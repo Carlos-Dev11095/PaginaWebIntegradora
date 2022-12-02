@@ -1,7 +1,7 @@
 {
     "theme_color": "#ffff",
     "background_color": "#ffff",
-    "display": "browser",
+    "display": "standalone",
     "scope": "/",
     "start_url": "index.html",
     "name": "Vestige",
